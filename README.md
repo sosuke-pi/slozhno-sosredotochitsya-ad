@@ -1,2 +1,3 @@
 # Сложно сосредоточиться
-Проектная работа по вёрстке.
+
+Ссылка на репозиторий: https://github.com/sosuke-pi/slozhno-sosredotochitsya-ad
